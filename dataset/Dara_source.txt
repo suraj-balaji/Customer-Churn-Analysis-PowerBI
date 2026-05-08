@@ -1,0 +1,7 @@
+Dataset: Databel Telecom Customer Churn Dataset
+
+Purpose:
+Customer churn analysis for telecom industry.
+
+Used for:
+Power BI business analytics portfolio project.
