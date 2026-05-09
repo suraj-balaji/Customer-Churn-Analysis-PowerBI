@@ -698,7 +698,7 @@ and customer behavior investigation.
 Author
 
 Suraj Bhagaye </br>
-besuraj28@gmail.com
+bhagayesuraj@gmail.com
 
 
 Skills Demonstrated:
